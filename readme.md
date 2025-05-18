@@ -1,4 +1,5 @@
-LocalDog 🐶📊
+# LocalDog
+![OpenLocalDog Logo](./static/logo.png)
 
 LocalDog é um ambiente local para desenvolvimento e validação de métricas no padrão DogStatsD, inspirado no Datadog. Ideal para simular, visualizar e verificar métricas customizadas sem precisar usar a plataforma real.
 
