@@ -1,0 +1,15 @@
+{
+  "name": "openlocaldog-client-example",
+  "version": "1.0.0",
+  "main": "datadog-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "hot-shots": "^10.2.1"
+  }
+}
